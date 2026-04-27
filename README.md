@@ -3,34 +3,36 @@
 
 <p align="center">
   <a href="mailto:erik.mursalimov@mail.ru">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+    <img src="/svg/EmailCircle.svg" height="48" alt="Email"/>
   </a>
+  &nbsp;
   <a href="https://t.me/fevoran">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
+    <img src="/svg/TelegramCircle.svg" height="48" alt="Telegram"/>
   </a>
+  &nbsp;
   <a href="https://xadummiex.github.io/">
-    <img src="https://img.shields.io/badge/Website-222222?style=for-the-badge&logo=github&logoColor=white" alt="website"/>
+    <img src="/svg/WebsiteCircle.svg" height="48" alt="Website"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/xadummiex/QA-requersts/blob/main/Mursalimov_cv_en.pdf">
-    <img src="https://img.shields.io/badge/CV%20%E2%80%94%20EN-FF6B00?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV English"/>
+    <img src="https://img.shields.io/badge/CV-EN-FF6B00?style=flat-square&logo=readthedocs&logoColor=white" alt="CV English"/>
   </a>
   <a href="https://github.com/xadummiex/QA-requersts/blob/main/Mursalimov_cv_ru.pdf">
-    <img src="https://img.shields.io/badge/CV%20%E2%80%94%20RU-FF6B00?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV Russian"/>
+    <img src="https://img.shields.io/badge/CV-RU-FF6B00?style=flat-square&logo=readthedocs&logoColor=white" alt="CV Russian"/>
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 Middle QA Engineer with 4+ years of experience in full-cycle testing of web applications and APIs. Strong in integration testing, process improvement, and test automation.
 
 ---
 
-### 🧪 Testing & Tools
+### Testing & Tools
 <p>
   <img src='/svg/JiraWordmark.svg' height='40'/>
   <img src='/svg/Testrail.svg' height='40'/>
@@ -39,14 +41,14 @@ Middle QA Engineer with 4+ years of experience in full-cycle testing of web appl
   <img src='/svg/Kibana.svg' height='40'/>
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src='/svg/PostgresqlWordmark.svg' height='40'/>
   <img src='/svg/Mysql.svg' height='40'/>
   <img src='/svg/Sqlite.svg' height='40'/>
 </p>
 
-### 💻 Programming & Frameworks
+### Programming & Frameworks
 <p>
   <img src='/svg/JavaWordmark.svg' height='40'/>
   <img src='/svg/Junit.svg' height='40'/>
@@ -55,7 +57,7 @@ Middle QA Engineer with 4+ years of experience in full-cycle testing of web appl
   <img src='/svg/Selenium.svg' height='40'/>
 </p>
 
-### ⚙️ Technologies & Platforms
+### Technologies & Platforms
 <p>
   <img src='/svg/DockerIcon.svg' height='40'/>
   <img src='/svg/Kafka.svg' height='40'/>
@@ -67,7 +69,7 @@ Middle QA Engineer with 4+ years of experience in full-cycle testing of web appl
 
 ---
 
-### 🌍 Languages
+### Languages
 - **Russian** — Native
 - **English** — Upper Intermediate (B2)
 
