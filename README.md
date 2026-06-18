@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Erik 👋</h1>
-<h3 align="center">QA Engineer | Manual & API Testing | Integration Testing</h3>
+<h3 align="center">QA Engineer | Auto & Manual & API Testing | Integration Testing</h3>
 
 <p align="center">
   <a href="mailto:erik.mursalimov@mail.ru">
