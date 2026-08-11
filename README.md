@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Erik 👋</h1>
-<h3 align="center">QA Engineer | Auto & Manual & API Testing | Integration Testing</h3>
+<h3 align="center">AQA Engineer | Auto & Manual & API Testing | Integration Testing</h3>
 
 <p align="center">
   <a href="mailto:erik.mursalimov@mail.ru">
@@ -28,7 +28,7 @@
 
 ### About Me
 
-Middle QA Engineer with 4+ years of experience in full-cycle testing of web applications and APIs. Strong in integration testing, process improvement, and test automation.
+AQA Engineer with 4+ years of experience in full-cycle testing of web applications and APIs. Strong in integration testing, process improvement, and test automation.
 
 ---
 
